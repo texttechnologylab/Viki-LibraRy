@@ -1,6 +1,8 @@
 [![version](https://img.shields.io/github/license/texttechnologylab/Viki-LibraRy)]()
 
-# Viki LibraRy
+<div align="center">
+  <h1>Viki LibraRy<br><h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3></h1> 
+</div>
 Logo?
 
 
