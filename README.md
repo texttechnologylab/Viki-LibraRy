@@ -1,5 +1,3 @@
-[![version](https://img.shields.io/github/license/texttechnologylab/Viki-LibraRy)]()
-
 <div align="center">
   <h1>Viki LibraRy<br><h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3></h1> 
 </div>
@@ -14,7 +12,7 @@ Logo?
 
 # Installation
 
-1. Clone this repository: `git clone https://github.com/texttechnologylab/Viki-LibraRy.git`
+1. Clone this repository
 2. Get the latest release from GitHub. This contains the Unity project
 3. In the repository, direct to the Java/viki_library_apiserver folder. Open the maven project with an IDE of your liking, install the Maven dependencies with e.g. `mvn install`.
 4. There are config files missing in the Java project since we cannot push credentials into the GitHub repo. You have to manually add them to fit your enviroment. To do so:
