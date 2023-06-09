@@ -14,7 +14,7 @@ Viki LibraRy in action             |  Room under construction
 ![image](https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/49769ad7-f7d1-4a29-b61b-5f5bed48eb5d)  |  ![image](https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/4ab6b8ee-a160-4c5a-a0a7-ddde4f680858)
 Excerpt from Viki LibraRy: Reading the Wikipedia article of “Rome” as a Book together with another user. In the background stairs to other Rooms as well as other Rooms on the same floor are shown. | Room "Geography" under construction from an outside view, where the players can then traverse in and experience the Category "Geography" of Wikipedia in VR.
 
-
+A showcase video can be found here: https://anonymfile.com/396B0/viki-libraryshowcasev2.mp4
 
 # Installation
 
