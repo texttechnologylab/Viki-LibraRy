@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Viki LibraRy<br><h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3></h1> 
 </div>
-Logo?
 
+![Logo_temp](https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/1c9bedd3-91d9-4ec7-b983-71e515e056fe)
+*Temporary Logo until the final version is done*
 
 # Abstract
 *Viki LibraRy*, is a first implementation for generating and exploring online information based on hypertext systems in a three-dimensional environment using virtual reality. Thereby a virtual library, based on Wikipedia, is created, in which Rooms are dynamically created with data, which is provided via a RESTful backend. In these Rooms the user can browse through all kind of different articles of the category in the form of Books. In addition, users can access different Rooms, through virtual portals. Beyond that, the explorations can be done alone or collaboratively, using Ubiq.
