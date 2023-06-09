@@ -29,7 +29,7 @@ A showcase video can be found here: https://anonymfile.com/396B0/viki-librarysho
 6. Now you can start the Java server. Default port should be 8080
 7. Open the Unity project in Unity downloaded from the Release tab in GitHub *(Make sure you have version 2021.3.25f1 installed or a version that is compatible with it)*. Viki LibraRy works on Desktop as well, but was designed for VR so plug in your VR-Device as well.
 8. Open the `APISandbox` Scene.
-9. There should be a gameobject `Enviroment\ScriptHolder`. Make sure that the API Parameters 'Element 1' is correct. If you started the Java server locally and didn't change the port, this should be correct by default.
+9. There should be a gameobject `Enviroment\ScriptHolder`. In that gameobject, a script is attached with a property called "API Parameters". Make sure that the API Parameters 'Element 1' is correctly set. It should conatin the base url for the afore started Java web server. If you started the Java server locally and didn't change the port, this should be correct by default.
 10. Start the project in Unity and you are set to go!
 
 # Default file values
