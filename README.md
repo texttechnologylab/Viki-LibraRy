@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/1f158f02-0d45-4e85-93ef-26d24c120e14" width="500"/>
+  <img src="https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/1fde9c36-6c27-4260-a4b4-2339fef2925f" width="500"/>
   <h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3> 
   <hr />
 </div>
