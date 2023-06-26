@@ -1,3 +1,8 @@
+[![Conference](http://img.shields.io/badge/conference-HT--2023-4b44ce.svg)](https://ht.acm.org/ht2023/)
+[![version](https://img.shields.io/github/license/texttechnologylab/Viki-LibraRy)]()
+[![latest](https://img.shields.io/github/v/release/texttechnologylab/Viki-LibraRy)]()
+
+
 <div align="center">
   <h1>Viki LibraRy<br><h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3></h1> 
 </div>
