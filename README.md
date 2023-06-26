@@ -90,3 +90,21 @@ remote_user = MY_USER
 remote_password = MY_PW
 remote_port = MY_PORT
 ```
+
+
+# Cite
+If you want to use the project please quote this as follows:
+
+S. Babbili, K. Bönisch, Y. Heinrich, P. Stephan, G. Abrami, and A. Mehler, “Viki LibraRy: A virtual reality library for collaborative browsing and navigation through hypertext,” in Proceedings of 34th ACM Hypertext Conference (HT 23), 2023. accpeted
+
+## BibTeX
+```
+@inproceedings{Babbili:et:al:2023,
+    author    = {Babbili, Shaduan and Bönisch, Kevin and Heinrich, Yannick and Stephan, Philipp and Abrami, Giuseppe and Mehler, Alexander},
+    title     = {Viki LibraRy: A virtual reality library for collaborative browsing and navigation through hypertext},
+    booktitle = {Proceedings of 34th ACM Hypertext Conference (HT 23)},
+    year      = {2023},
+    location  = {Rome},
+    note      = {accpeted}
+}
+```
