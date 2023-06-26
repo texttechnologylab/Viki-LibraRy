@@ -1,14 +1,24 @@
+<div align="center">
+  <img src="https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/1f158f02-0d45-4e85-93ef-26d24c120e14" width="500"/>
+  <h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3> 
+  <hr />
+</div>
+
 [![Conference](http://img.shields.io/badge/conference-HT--2023-4b44ce.svg)](https://ht.acm.org/ht2023/)
 [![version](https://img.shields.io/github/license/texttechnologylab/Viki-LibraRy)]()
 [![latest](https://img.shields.io/github/v/release/texttechnologylab/Viki-LibraRy)]()
 
-
-<div align="center">
-  <h1>Viki LibraRy<br><h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3></h1> 
-</div>
-
 # Abstract
+
 *Viki LibraRy*, is a first implementation for generating and exploring online information based on hypertext systems in a three-dimensional environment using virtual reality. Thereby a virtual library, based on Wikipedia, is created, in which Rooms are dynamically created with data, which is provided via a RESTful backend. In these Rooms the user can browse through all kind of different articles of the category in the form of Books. In addition, users can access different Rooms, through virtual portals. Beyond that, the explorations can be done alone or collaboratively, using Ubiq.
+
+# In medias res
+Viki LibraRy in action             |  Room under construction
+:-------------------------:|:-------------------------:
+![image](https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/f1b978cf-72c6-4673-9c12-f3356cd70ac0)  |  ![image](https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/57680af4-7a93-4f46-a491-e9c6771994d5)
+Excerpt from Viki LibraRy: Reading the Wikipedia article of “Rome” as a Book together with another user. In the background stairs to other Rooms as well as other Rooms on the same floor are shown. | Room "Geography" under construction from an outside view, where the players can then traverse in and experience the Category "Geography" of Wikipedia in VR.
+
+A showcase video can be found here: https://anonymfile.com/396B0/viki-libraryshowcasev2.mp4
 
 # Installation
 
@@ -95,7 +105,6 @@ remote_user = MY_USER
 remote_password = MY_PW
 remote_port = MY_PORT
 ```
-
 
 # Cite
 If you want to use the project please quote this as follows:
