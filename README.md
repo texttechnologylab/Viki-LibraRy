@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/1fde9c36-6c27-4260-a4b4-2339fef2925f" width="500"/>
+  <img src="https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/1fde9c36-6c27-4260-a4b4-2339fef2925f" width="400"/>
   <h3>A virtual reality library for collaborative browsing and navigation through hypertext</h3> 
   <hr />
+  <img src="https://github.com/texttechnologylab/Viki-LibraRy/assets/49918134/9358d1dd-9b64-4554-9417-9c5e7617fc14"/>
 </div>
 
 [![Conference](http://img.shields.io/badge/conference-HT--2023-4b44ce.svg)](https://ht.acm.org/ht2023/)
