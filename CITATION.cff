@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+title: 'Viki LibraRy'
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Babbili
+    given-names: Shaduan
+    orcid: 'https://orcid.org/0009-0006-7080-3855'
+  - family-names: Bönisch
+    given-names: Kevin
+    orcid: 'https://orcid.org/0009-0005-6962-2646'    
+  - family-names: Heinrich
+    given-names: Yannick
+    orcid: 'https://orcid.org/0009-0004-2957-5219'    
+  - family-names: Stephan
+    given-names: Philipp
+    orcid: 'https://orcid.org/0009-0004-7703-8848'    
+  - family-names: Abrami
+    given-names: Giuseppe
+    orcid: 'https://orcid.org/0000-0002-7084-4909'
+  - family-names: Mehler
+    given-names: Alexander
+    orcid: 'https://orcid.org/0000-0003-2567-7539'
+identifiers:
+  - type: doi
+    value: 10.1145/3603163.3609079
+url: 'https://github.com/texttechnologylab/Viki-LibraRy'
+abstract: >-
+  We present Viki LibraRy, a virtual-reality-based system for generating and exploring online information as a spatial hypertext. It creates a virtual library based on Wikipedia in which Rooms are used to make data available via a RESTful backend. In these Rooms, users can browse through all articles of the corresponding Wikipedia category in the form of Books. In addition, users can access different Rooms, through virtual portals. Beyond that, the explorations can be done alone or collaboratively, using Ubiq.
+license: AGPL-3.0-or-later
+version: 1
+date-released: '2023-09-04'
+preferred-citation:
+  authors:
+  - family-names: Babbili
+    given-names: Shaduan
+    orcid: 'https://orcid.org/0009-0006-7080-3855'
+  - family-names: Bönisch
+    given-names: Kevin
+    orcid: 'https://orcid.org/0009-0005-6962-2646'    
+  - family-names: Heinrich
+    given-names: Yannick
+    orcid: 'https://orcid.org/0009-0004-2957-5219'    
+  - family-names: Stephan
+    given-names: Philipp
+    orcid: 'https://orcid.org/0009-0004-7703-8848'    
+  - family-names: Abrami
+    given-names: Giuseppe
+    orcid: 'https://orcid.org/0000-0002-7084-4909'
+  - family-names: Mehler
+    given-names: Alexander
+    orcid: 'https://orcid.org/0000-0003-2567-7539'
+  identifiers:
+    - type: doi
+      value: 10.1145/3603163.3609079
+  title: 'Viki LibraRy: A Virtual Reality Library for Collaborative Browsing and Navigation through Hypertext'
+  year: 2023
+  collection-title: 'Proceedings of the 34th ACM Conference on Hypertext and Social Media'
+  publisher:
+    name: 'Association for Computing Machinery'
+  pages: '3'
+  collection-type: proceedings
+  conference:
+    date-begin: '2023-09-04'
+    date-end: '2023-09-08'
+    name: '34th ACM Conference on Hypertext and Social Media (HT 2023)'
+    city: 'Rom'
+    country: 'Italy'
+  type: conference-paper
