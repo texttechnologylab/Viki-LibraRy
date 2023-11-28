@@ -111,16 +111,34 @@ remote_port = MY_PORT
 # Cite
 If you want to use the project please quote this as follows:
 
-S. Babbili, K. Bönisch, Y. Heinrich, P. Stephan, G. Abrami, and A. Mehler, “Viki LibraRy: A virtual reality library for collaborative browsing and navigation through hypertext,” in Proceedings of 34th ACM Hypertext Conference (HT 23), 2023. accpeted
+Shaduan Babbili, Kevin Bönisch, Yannick Heinrich, Philipp Stephan, Giuseppe Abrami and Alexander Mehler. (2023). "Viki LibraRy: A Virtual Reality Library for Collaborative Browsing and Navigation through Hypertext." Proceedings of the 34th ACM Conference on Hypertext and Social Media.
 
 ## BibTeX
 ```
 @inproceedings{Babbili:et:al:2023,
-    author    = {Babbili, Shaduan and Bönisch, Kevin and Heinrich, Yannick and Stephan, Philipp and Abrami, Giuseppe and Mehler, Alexander},
-    title     = {Viki LibraRy: A virtual reality library for collaborative browsing and navigation through hypertext},
-    booktitle = {Proceedings of 34th ACM Hypertext Conference (HT 23)},
-    year      = {2023},
-    location  = {Rome},
-    note      = {accpeted}
+  author    = {Babbili, Shaduan and B\"{o}nisch, Kevin and Heinrich, Yannick
+               and Stephan, Philipp and Abrami, Giuseppe and Mehler, Alexander},
+  title     = {Viki LibraRy: A Virtual Reality Library for Collaborative Browsing
+               and Navigation through Hypertext},
+  year      = {2023},
+  isbn      = {9798400702327},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3603163.3609079},
+  doi       = {10.1145/3603163.3609079},
+  abstract  = {We present Viki LibraRy, a virtual-reality-based system for generating
+               and exploring online information as a spatial hypertext. It creates
+               a virtual library based on Wikipedia in which Rooms are used to
+               make data available via a RESTful backend. In these Rooms, users
+               can browse through all articles of the corresponding Wikipedia
+               category in the form of Books. In addition, users can access different
+               Rooms, through virtual portals. Beyond that, the explorations
+               can be done alone or collaboratively, using Ubiq.},
+  booktitle = {Proceedings of the 34th ACM Conference on Hypertext and Social Media},
+  articleno = {6},
+  numpages  = {3},
+  keywords  = {virtual reality simulation, virtual reality, virtual hypertext, virtual museum},
+  location  = {Rome, Italy},
+  series    = {HT '23}
 }
 ```
